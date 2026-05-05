@@ -39,18 +39,6 @@ This project simulates a real-world enterprise network for a company with two br
 
 ---
 
-## 🖥️ Screenshots
-(Add your screenshots here)
-
-Examples:
-- Network Topology
-- VLAN Configuration
-- Routing Table
-- DHCP Config
-- Security Config
-
----
-
 ## 🎯 Skills Gained
 - Network Design
 - Routing & Switching
