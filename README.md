@@ -108,11 +108,6 @@ The network consists of:
 <img width="1920" height="1041" alt="iot" src="https://github.com/user-attachments/assets/ab0d18ce-10c5-4d03-a9c9-7cfd9bfd0d99" />
 
 
----
-
-## 🔹 Subnetting
-- Designed subnet structure for efficient IP allocation
-- Assigned dedicated subnets for departments and services
 
 ---
 
@@ -126,7 +121,7 @@ The network consists of:
 - RIP Routing
 - VoIP Integration
 - Troubleshooting
-
+- Subnetting & IP Addressing
 ---
 
 # 🖥️ Lab Environment
