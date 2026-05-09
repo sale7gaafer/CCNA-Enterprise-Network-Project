@@ -7,7 +7,7 @@ The project demonstrates routing, switching, VLAN segmentation, network services
 
 ---
 
-# 🌐 Network Topology
+#  Network Topology
 
 The network consists of:
 - Multiple departments connected through switches
@@ -23,7 +23,7 @@ The network consists of:
 
 ---
 
-# 🛠️ Technologies & Configurations
+#  Technologies & Configurations
 
 ## 🔹 VLAN Configuration
 - Created VLANs for network segmentation
@@ -111,7 +111,7 @@ The network consists of:
 
 ---
 
-# 🎯 Skills Demonstrated
+#  Skills Demonstrated
 - Enterprise Network Design
 - Routing & Switching
 - VLAN Segmentation
@@ -124,10 +124,10 @@ The network consists of:
 - Subnetting & IP Addressing
 ---
 
-# 🖥️ Lab Environment
+#  Lab Environment
 - Cisco Packet Tracer
 
 ---
 
-# 🚀 Conclusion
+#  Conclusion
 This project demonstrates the ability to design, configure, and secure a complete enterprise network environment including routing, switching, network services, VLANs, and security implementation in a simulated real-world infrastructure.
